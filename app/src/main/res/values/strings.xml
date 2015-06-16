@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Duolingo Journal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="minute_label">minutes remaining</string>
+    <string name="minute_default">0</string>
+    <string name="xp_gained">XP gained today:</string>
+    <string name="time_played">Minutes played today:</string>
+    <string name="XP_button_label">Add</string>
+    <string name="played_button_label">Submit</string>
+    <string name="saved_time">TimeLeft</string>
+    <integer name="default_time">0</integer>
+</resources>
